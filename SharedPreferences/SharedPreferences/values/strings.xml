@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">SQLite Database Demo</string>
+    <string name="Settings">Settings</string>
+    <string name="action_settings">Setttings</string>
+    <string name="red_color">Red Color</string>
+    <string name="green_color">Green Color</string>
+    <string name="yellow_color">Yellow Color</string>
+</resources>
